@@ -143,12 +143,12 @@ body{
     }
 
     .nav1 {
-        /* position: relative;
-        left: 0; */
+        position: relative;
+        left: 0; 
         /* position: absolute;
         left: 0;
         bottom: 0; */
-        /* transform: translateX(50%); */
+        /* /* transform: translateX(50%); */
     }
 
     .home{
