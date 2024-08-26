@@ -24,7 +24,7 @@ function Header(props) {
                     <Navbar.Text className='search searchbar'>
                     <Nav className='mr-auto'>
                         <FormControl placeholder='search product' 
-                        style={{width:500}} 
+                       
                         className='m-auto'
                         onChange={(e)=>{
                             productDispatch({
