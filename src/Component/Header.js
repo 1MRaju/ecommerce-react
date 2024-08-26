@@ -14,7 +14,7 @@ function Header(props) {
       } = CartState();
     return (
         <>
-            <Navbar bg="dark" variant="dark" style={{height:100}} className='navbar border' >
+            <Navbar bg="dark" variant="dark" className='navbar border' >
                 <Container className='header'>
                  <div className='headerColumn'>
                     <Navbar.Brand className='fs-3'>
