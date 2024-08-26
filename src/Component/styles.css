@@ -111,7 +111,7 @@ body{
 }
 
 
-@media (min-width: 400px) and (max-width: 1000px) {  
+@media (min-width: 460px) and (max-width: 1000px) {  
    
     .navbar {
         padding: 5px;
