@@ -9,9 +9,9 @@ function Rating({rating,onClick,style}) {
                 onClick={()=>onClick(i)} 
                 style={style}>
                 {rating >i ?(
-                <AiFillStar fontSize="18px"/>
+                <AiFillStar fontSize="18px" color="#FF9529"/>
             ):(
-                <AiOutlineStar fontSize="18px"/> 
+                <AiOutlineStar fontSize="18px" color="#FF9529"/> 
             )}
             </span>
         ))}

@@ -219,9 +219,9 @@ body{
     .cartEmpty{
         position: absolute;
         /* border: 1px solid red; */
-        width: 90%;
+        width: 100%;
         height: auto;
-        left: -100px;
+        /* left: -100px; */
     }
 
     .cartItemImg {
