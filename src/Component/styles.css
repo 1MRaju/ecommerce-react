@@ -137,13 +137,13 @@ body{
         position: relative;
     }
     .search{
-        width: 300px !important;
+        width: 250px !important;
     }
 
     .searchbar{
         display: block;
-        width: 300px;
-        max-width: 300px!important;
+        width: 250px;
+        max-width: 250px!important;
         height: auto;
         margin: auto;
         position: absolute;
